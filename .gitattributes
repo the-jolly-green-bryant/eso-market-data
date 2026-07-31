@@ -1,0 +1,7 @@
+*.gz binary
+*.zip binary
+*.sqlite binary
+*.png binary
+*.jpg binary
+*.webp binary
+

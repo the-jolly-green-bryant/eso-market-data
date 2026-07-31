@@ -23,5 +23,6 @@ Large generated deployment artifacts such as SQLite databases are published as
 GitHub release assets instead of being added to Git history.
 
 The application repository consumes this repository as a shallow submodule.
-Daily ingest commits only changed data here.
-
+Daily ingest commits only changed data here. A push builds the portable SQLite
+snapshot and updates the `latest` release; application-only pushes download that
+small artifact instead of recompiling the complete dataset.

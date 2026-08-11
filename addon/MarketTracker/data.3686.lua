@@ -11,7 +11,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="326", ["date"]="2026-07-26", ["commonQuantity"]="200", ["minimum"]="280", ["maximum"]="450"
+                  ["average"]="330", ["date"]="2026-08-10", ["commonQuantity"]="200", ["minimum"]="280", ["maximum"]="450"
                 },
                 ["02"] = {
                   ["average"]="492", ["date"]="2025-11-13", ["commonQuantity"]="200", ["minimum"]="250", ["maximum"]="824"
@@ -68,7 +68,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="17064", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="46000"
+                  ["average"]="21080", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1153", ["maximum"]="46000"
                 },
                 ["02"] = {
                   ["average"]="1595", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="1450", ["maximum"]="60500"
@@ -119,7 +119,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="24427", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="33467"
+                  ["average"]="23570", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="33467"
                 },
                 ["04"] = {
                   ["average"]="34945", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="17000", ["maximum"]="49500"
@@ -158,7 +158,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="9765", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="15524"
+                  ["average"]="9765", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="15524"
                 },
                 ["04"] = {
                   ["average"]="13750", ["date"]="2025-09-20", ["commonQuantity"]="1", ["minimum"]="12500", ["maximum"]="13750"
@@ -205,7 +205,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="50000", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="50000"
+                  ["average"]="50000", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="50000"
                 }
               }
             }
@@ -224,7 +224,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7105", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="12345"
+                  ["average"]="7105", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="12345"
                 }
               }
             },
@@ -260,7 +260,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7472", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="12500"
+                  ["average"]="8555", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="12500"
                 },
                 ["03"] = {
                   ["average"]="6596", ["date"]="2025-11-13", ["commonQuantity"]="2", ["minimum"]="500", ["maximum"]="6600"
@@ -303,7 +303,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="403", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="1000"
+                  ["average"]="403", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="1000"
                 },
                 ["03"] = {
                   ["average"]="660", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="600", ["maximum"]="660"
@@ -368,7 +368,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="876", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="3898"
+                  ["average"]="876", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="3898"
                 },
                 ["02"] = {
                   ["average"]="987", ["date"]="2025-11-02", ["commonQuantity"]="2", ["minimum"]="160", ["maximum"]="2167"
@@ -407,7 +407,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="615", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="4900"
+                  ["average"]="575", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="4900"
                 },
                 ["02"] = {
                   ["average"]="389", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="2230"
@@ -446,7 +446,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1677", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="5000"
+                  ["average"]="1677", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="5000"
                 },
                 ["03"] = {
                   ["average"]="4400", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="4664"
@@ -521,7 +521,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2061", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="900", ["maximum"]="2900"
+                  ["average"]="2152", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="900", ["maximum"]="3061"
                 },
                 ["03"] = {
                   ["average"]="5781", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="130", ["maximum"]="10999"
@@ -560,7 +560,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="104", ["date"]="2026-07-26", ["commonQuantity"]="200", ["minimum"]="4", ["maximum"]="125"
+                  ["average"]="101", ["date"]="2026-08-10", ["commonQuantity"]="200", ["minimum"]="4", ["maximum"]="125"
                 },
                 ["01"] = {
                   ["average"]="191", ["date"]="2025-11-13", ["commonQuantity"]="200", ["minimum"]="14", ["maximum"]="528"
@@ -603,7 +603,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="865", ["date"]="2026-07-26", ["commonQuantity"]="10", ["minimum"]="20", ["maximum"]="1000"
+                  ["average"]="879", ["date"]="2026-08-10", ["commonQuantity"]="10", ["minimum"]="20", ["maximum"]="1000"
                 },
                 ["01"] = {
                   ["average"]="943", ["date"]="2025-11-13", ["commonQuantity"]="2", ["minimum"]="500", ["maximum"]="1100"
@@ -664,7 +664,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="72137", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="60000", ["maximum"]="85671"
+                  ["average"]="66903", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="78091"
                 },
                 ["04"] = {
                   ["average"]="94110", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="94111"
@@ -703,7 +703,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4425", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                  ["average"]="4425", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
                 },
                 ["04"] = {
                   ["average"]="7987", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="5300", ["maximum"]="8800"
@@ -753,7 +753,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1803", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="6000"
+                  ["average"]="1803", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="6000"
                 },
                 ["02"] = {
                   ["average"]="1100", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="3850"
@@ -833,7 +833,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3629", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="600", ["maximum"]="5816"
+                  ["average"]="3629", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="600", ["maximum"]="5816"
                 }
               }
             },
@@ -873,7 +873,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4002", ["date"]="2026-07-26", ["commonQuantity"]="8", ["minimum"]="3500", ["maximum"]="4500"
+                  ["average"]="4052", ["date"]="2026-08-10", ["commonQuantity"]="8", ["minimum"]="3500", ["maximum"]="4500"
                 },
                 ["05"] = {
                   ["average"]="2507", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1916", ["maximum"]="2787"
@@ -920,7 +920,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="455", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="584"
+                  ["average"]="455", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="584"
                 },
                 ["02"] = {
                   ["average"]="202", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="184", ["maximum"]="202"
@@ -983,7 +983,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="23173", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="9999", ["maximum"]="48000"
+                  ["average"]="23173", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="9999", ["maximum"]="48000"
                 },
                 ["05"] = {
                   ["average"]="12788", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="22312"
@@ -1019,7 +1019,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2442", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="5434"
+                  ["average"]="2380", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1442", ["maximum"]="5434"
                 },
                 ["04"] = {
                   ["average"]="4398", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="733", ["maximum"]="14289"
@@ -1062,7 +1062,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="61792", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="85000"
+                  ["average"]="64522", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="85000"
                 },
                 ["05"] = {
                   ["average"]="176050", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="160045", ["maximum"]="176050"
@@ -1101,7 +1101,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1883", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="3000"
+                  ["average"]="1883", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="3000"
                 },
                 ["03"] = {
                   ["average"]="1629", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="9075"
@@ -1137,7 +1137,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="23100", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="17030", ["maximum"]="27137"
+                  ["average"]="22932", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="17030", ["maximum"]="27137"
                 },
                 ["03"] = {
                   ["average"]="11736", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="530", ["maximum"]="121000"
@@ -1176,7 +1176,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="9282", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="4400", ["maximum"]="11013"
+                  ["average"]="9284", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="11013"
                 },
                 ["04"] = {
                   ["average"]="15933", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="2039", ["maximum"]="44000"
@@ -1219,7 +1219,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5737", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="440", ["maximum"]="15000"
+                  ["average"]="5588", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="440", ["maximum"]="15000"
                 },
                 ["04"] = {
                   ["average"]="8405", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="1539", ["maximum"]="23913"
@@ -1320,7 +1320,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4224", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="5231"
+                  ["average"]="3896", ["date"]="2026-08-10", ["commonQuantity"]="2", ["minimum"]="2500", ["maximum"]="5231"
                 },
                 ["03"] = {
                   ["average"]="5971", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="9680"
@@ -1359,7 +1359,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="24483", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="30000"
+                  ["average"]="24435", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="30000"
                 },
                 ["04"] = {
                   ["average"]="57716", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="126609"
@@ -1402,7 +1402,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3775", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="5000"
+                  ["average"]="3486", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="4283"
                 },
                 ["04"] = {
                   ["average"]="7903", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="22043"
@@ -1445,7 +1445,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2906", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="10000"
+                  ["average"]="3040", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="10000"
                 },
                 ["03"] = {
                   ["average"]="5628", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3990", ["maximum"]="11000"
@@ -1484,7 +1484,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="294", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="63", ["maximum"]="400"
+                  ["average"]="294", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="63", ["maximum"]="400"
                 }
               },
               ["04"] = {
@@ -1537,7 +1537,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1486", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="806", ["maximum"]="2000"
+                  ["average"]="2145", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10030"
                 },
                 ["03"] = {
                   ["average"]="3645", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="17600"
@@ -1598,7 +1598,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5454", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1650", ["maximum"]="22150"
+                  ["average"]="5749", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1650", ["maximum"]="22150"
                 },
                 ["03"] = {
                   ["average"]="2750", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="2750"
@@ -1634,7 +1634,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="20935", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="9998", ["maximum"]="27000"
+                  ["average"]="20585", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="9998", ["maximum"]="27000"
                 },
                 ["04"] = {
                   ["average"]="35552", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="9039", ["maximum"]="51700"
@@ -1677,7 +1677,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5364", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1246", ["maximum"]="10000"
+                  ["average"]="5364", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1246", ["maximum"]="10000"
                 },
                 ["03"] = {
                   ["average"]="11000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="16500"
@@ -1795,7 +1795,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="435", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="1060"
+                  ["average"]="435", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="1060"
                 }
               }
             },
@@ -1824,7 +1824,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="251", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="37", ["maximum"]="2000"
+                  ["average"]="139", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="300"
                 },
                 ["02"] = {
                   ["average"]="256", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="37", ["maximum"]="1020"
@@ -1867,7 +1867,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="702", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="125", ["maximum"]="1000"
+                  ["average"]="689", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="125", ["maximum"]="1000"
                 },
                 ["02"] = {
                   ["average"]="847", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="3300"
@@ -1906,7 +1906,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="485", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1586"
+                  ["average"]="435", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1000"
                 },
                 ["03"] = {
                   ["average"]="416", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1", ["maximum"]="2200"
@@ -1949,7 +1949,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="26347", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="30000"
+                  ["average"]="26347", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="30000"
                 },
                 ["04"] = {
                   ["average"]="39021", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5039", ["maximum"]="55000"
@@ -1988,7 +1988,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8822", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="18000"
+                  ["average"]="10118", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="20000"
                 },
                 ["04"] = {
                   ["average"]="11723", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="27500"
@@ -2031,7 +2031,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4490", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2966", ["maximum"]="5500"
+                  ["average"]="5104", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2420", ["maximum"]="10039"
                 },
                 ["04"] = {
                   ["average"]="9801", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="36343"
@@ -2070,7 +2070,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1643", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
+                  ["average"]="1643", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
                 },
                 ["03"] = {
                   ["average"]="1792", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1090", ["maximum"]="11000"
@@ -2109,7 +2109,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2214", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="5030"
+                  ["average"]="1696", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="2500"
                 },
                 ["03"] = {
                   ["average"]="2280", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="11033"
@@ -2148,7 +2148,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="945", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="441", ["maximum"]="1937"
+                  ["average"]="919", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="441", ["maximum"]="1937"
                 },
                 ["03"] = {
                   ["average"]="1545", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="7700"
@@ -2187,7 +2187,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="28892", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="50000"
+                  ["average"]="28892", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="50000"
                 },
                 ["04"] = {
                   ["average"]="33000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="33000"
@@ -2216,7 +2216,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1394", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="3334"
+                  ["average"]="1394", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="3334"
                 },
                 ["01"] = {
                   ["average"]="16500", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="24200"
@@ -2415,7 +2415,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2772", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1139", ["maximum"]="3500"
+                  ["average"]="2738", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="3682"
                 },
                 ["04"] = {
                   ["average"]="10464", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="66043"
@@ -2454,7 +2454,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="24771", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="18844", ["maximum"]="36000"
+                  ["average"]="24771", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="18844", ["maximum"]="36000"
                 },
                 ["04"] = {
                   ["average"]="38461", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="24000", ["maximum"]="110000"
@@ -2497,7 +2497,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="528", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="955"
+                  ["average"]="786", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="955"
                 }
               }
             },
@@ -2523,7 +2523,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3369", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="20000"
+                  ["average"]="3369", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="20000"
                 },
                 ["02"] = {
                   ["average"]="125", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="114", ["maximum"]="33000"
@@ -2718,7 +2718,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="995", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="4969"
+                  ["average"]="995", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="4969"
                 },
                 ["02"] = {
                   ["average"]="1123", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="5500"
@@ -2812,7 +2812,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="104", ["date"]="2026-07-26", ["commonQuantity"]="200", ["minimum"]="91", ["maximum"]="125"
+                  ["average"]="96", ["date"]="2026-08-10", ["commonQuantity"]="200", ["minimum"]="90", ["maximum"]="103"
                 },
                 ["01"] = {
                   ["average"]="176", ["date"]="2025-11-13", ["commonQuantity"]="200", ["minimum"]="105", ["maximum"]="227"
@@ -2858,7 +2858,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="29186", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="40039"
+                  ["average"]="27533", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="14000", ["maximum"]="33596"
                 }
               }
             },
@@ -2912,7 +2912,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="133", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="25", ["maximum"]="350"
+                  ["average"]="127", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="25", ["maximum"]="225"
                 },
                 ["02"] = {
                   ["average"]="361", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="25", ["maximum"]="1130"
@@ -2955,7 +2955,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5589", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="10000"
+                  ["average"]="5569", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="10000"
                 },
                 ["04"] = {
                   ["average"]="9481", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="21999"
@@ -2994,7 +2994,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1970", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="5000"
+                  ["average"]="1970", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="5000"
                 },
                 ["02"] = {
                   ["average"]="3804", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="15400"
@@ -3410,7 +3410,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3684", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="866", ["maximum"]="20991"
+                  ["average"]="3684", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="866", ["maximum"]="20991"
                 },
                 ["02"] = {
                   ["average"]="1100", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="11099"
@@ -3619,7 +3619,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1119", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="2094"
+                  ["average"]="906", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="2094"
                 },
                 ["04"] = {
                   ["average"]="1006", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="139", ["maximum"]="3850"
@@ -3658,7 +3658,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7315", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3237", ["maximum"]="10507"
+                  ["average"]="5986", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3237", ["maximum"]="7500"
                 },
                 ["04"] = {
                   ["average"]="9900", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="30800"
@@ -3697,7 +3697,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7062", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5500", ["maximum"]="10000"
+                  ["average"]="6291", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3999", ["maximum"]="7500"
                 },
                 ["04"] = {
                   ["average"]="11697", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="800", ["maximum"]="32889"
@@ -3740,7 +3740,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2947", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="613", ["maximum"]="7153"
+                  ["average"]="2996", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="753", ["maximum"]="7153"
                 },
                 ["04"] = {
                   ["average"]="827", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="133", ["maximum"]="3435"
@@ -4071,7 +4071,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="25434", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="39000"
+                  ["average"]="25502", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="39000"
                 },
                 ["04"] = {
                   ["average"]="33714", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="18039", ["maximum"]="41473"
@@ -4114,7 +4114,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="128", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="128", ["maximum"]="128"
+                  ["average"]="128", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="128", ["maximum"]="128"
                 }
               },
               ["04"] = {
@@ -4188,7 +4188,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5100", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2800", ["maximum"]="8800"
+                  ["average"]="5100", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2800", ["maximum"]="8800"
                 },
                 ["04"] = {
                   ["average"]="9680", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="8800", ["maximum"]="9680"
@@ -4266,7 +4266,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4661", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="60000"
+                  ["average"]="4661", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="60000"
                 },
                 ["02"] = {
                   ["average"]="3300", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="790", ["maximum"]="3300"
@@ -4496,7 +4496,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5277", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="4420", ["maximum"]="5712"
+                  ["average"]="5001", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="5712"
                 },
                 ["02"] = {
                   ["average"]="7219", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2027", ["maximum"]="44000"
@@ -4539,7 +4539,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7039", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="14000"
+                  ["average"]="7039", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="14000"
                 },
                 ["02"] = {
                   ["average"]="10843", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="11000"
@@ -4582,7 +4582,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="756", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="2000"
+                  ["average"]="756", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="2000"
                 },
                 ["02"] = {
                   ["average"]="378", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="344", ["maximum"]="5665"
@@ -4799,7 +4799,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="748", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="84", ["maximum"]="3384"
+                  ["average"]="748", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="84", ["maximum"]="3384"
                 }
               }
             },
@@ -4851,7 +4851,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="10726", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="9500", ["maximum"]="13200"
+                  ["average"]="11691", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="9500", ["maximum"]="13200"
                 },
                 ["04"] = {
                   ["average"]="12455", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="22330"
@@ -4890,7 +4890,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4527", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2748", ["maximum"]="10000"
+                  ["average"]="3840", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2300", ["maximum"]="5000"
                 },
                 ["04"] = {
                   ["average"]="4673", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5", ["maximum"]="9900"
@@ -4929,7 +4929,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1022", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="176", ["maximum"]="2000"
+                  ["average"]="1479", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="4105"
                 },
                 ["03"] = {
                   ["average"]="2103", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="530", ["maximum"]="14850"
@@ -5044,7 +5044,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1308", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="687", ["maximum"]="5487"
+                  ["average"]="1308", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="687", ["maximum"]="5487"
                 },
                 ["03"] = {
                   ["average"]="1377", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="470", ["maximum"]="2200"
@@ -5246,7 +5246,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="15754", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="11000", ["maximum"]="30000"
+                  ["average"]="15754", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="11000", ["maximum"]="30000"
                 },
                 ["04"] = {
                   ["average"]="28864", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="18500", ["maximum"]="35200"
@@ -5293,7 +5293,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="85000", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="80000", ["maximum"]="90000"
+                  ["average"]="85000", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="80000", ["maximum"]="90000"
                 }
               }
             }
@@ -5312,7 +5312,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6304", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10246"
+                  ["average"]="14822", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="100000"
                 }
               }
             },
@@ -5352,7 +5352,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="239", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="12", ["maximum"]="1015"
+                  ["average"]="283", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="115", ["maximum"]="1015"
                 },
                 ["01"] = {
                   ["average"]="718", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="95", ["maximum"]="880"
@@ -5395,7 +5395,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="10928", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="20000"
+                  ["average"]="10928", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="20000"
                 }
               }
             },
@@ -5435,7 +5435,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="67", ["date"]="2026-07-26", ["commonQuantity"]="100", ["minimum"]="50", ["maximum"]="167"
+                  ["average"]="50", ["date"]="2026-08-10", ["commonQuantity"]="100", ["minimum"]="3", ["maximum"]="167"
                 },
                 ["03"] = {
                   ["average"]="143", ["date"]="2025-11-13", ["commonQuantity"]="8", ["minimum"]="85", ["maximum"]="165"
@@ -5474,7 +5474,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4048", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1550", ["maximum"]="6817"
+                  ["average"]="4048", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1550", ["maximum"]="6817"
                 }
               }
             },
@@ -5507,7 +5507,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3098", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="4385"
+                  ["average"]="3098", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="4385"
                 },
                 ["03"] = {
                   ["average"]="7865", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="7150", ["maximum"]="7865"
@@ -5539,7 +5539,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="10715", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="4284", ["maximum"]="15000"
+                  ["average"]="9805", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="15000"
                 },
                 ["04"] = {
                   ["average"]="18151", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="16500", ["maximum"]="22000"
@@ -5550,6 +5550,13 @@
               ["--"] = {
                 ["--"] = {
                   ["average"]="9333", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="18000"
+                }
+              }
+            },
+            ["xbox-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="10000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="10000"
                 }
               }
             }
@@ -5568,7 +5575,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="54025", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="38800", ["maximum"]="87383"
+                  ["average"]="54787", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="38800", ["maximum"]="87383"
                 },
                 ["04"] = {
                   ["average"]="82893", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="72039", ["maximum"]="95645"
@@ -5607,7 +5614,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="100678", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="68400", ["maximum"]="200000"
+                  ["average"]="100678", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="68400", ["maximum"]="200000"
                 },
                 ["05"] = {
                   ["average"]="220000", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="200000", ["maximum"]="220000"
@@ -5629,7 +5636,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4255", ["date"]="2026-07-26", ["commonQuantity"]="2", ["minimum"]="150", ["maximum"]="5000"
+                  ["average"]="4255", ["date"]="2026-08-10", ["commonQuantity"]="2", ["minimum"]="150", ["maximum"]="5000"
                 },
                 ["03"] = {
                   ["average"]="4400", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="4400"
@@ -5668,7 +5675,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="978", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="332", ["maximum"]="2500"
+                  ["average"]="978", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="332", ["maximum"]="2500"
                 }
               }
             },
@@ -5694,7 +5701,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1037", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="3153"
+                  ["average"]="1037", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="3153"
                 },
                 ["04"] = {
                   ["average"]="2475", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="2250", ["maximum"]="2475"
@@ -5921,7 +5928,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="435", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="127", ["maximum"]="1100"
+                  ["average"]="513", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="1027"
                 },
                 ["02"] = {
                   ["average"]="681", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="69", ["maximum"]="5500"
@@ -5964,7 +5971,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="9121", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="16692"
+                  ["average"]="9270", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="16692"
                 },
                 ["04"] = {
                   ["average"]="12062", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1250", ["maximum"]="33000"
@@ -6052,7 +6059,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="48955", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5180", ["maximum"]="74189"
+                  ["average"]="48955", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5180", ["maximum"]="74189"
                 },
                 ["04"] = {
                   ["average"]="22000", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="77000"
@@ -6135,7 +6142,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6225", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="10000"
+                  ["average"]="6225", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="10000"
                 },
                 ["03"] = {
                   ["average"]="5280", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="5280"
@@ -6167,7 +6174,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8172", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="9196"
+                  ["average"]="8172", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="9196"
                 },
                 ["04"] = {
                   ["average"]="13230", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1200", ["maximum"]="30843"
@@ -6206,7 +6213,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2016", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="6000"
+                  ["average"]="2016", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="6000"
                 },
                 ["02"] = {
                   ["average"]="1000", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="1000"
@@ -6456,7 +6463,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="97356", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="69000", ["maximum"]="153527"
+                  ["average"]="96448", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="69000", ["maximum"]="153527"
                 },
                 ["05"] = {
                   ["average"]="164245", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="149314", ["maximum"]="164245"
@@ -6495,7 +6502,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="30955", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="24000", ["maximum"]="52000"
+                  ["average"]="30917", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="24000", ["maximum"]="52000"
                 },
                 ["04"] = {
                   ["average"]="28232", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="17000", ["maximum"]="29310"
@@ -6534,7 +6541,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2825", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="8000"
+                  ["average"]="2686", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="3258"
                 },
                 ["02"] = {
                   ["average"]="8177", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="4347", ["maximum"]="11000"
@@ -6585,7 +6592,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="951", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="84", ["maximum"]="2384"
+                  ["average"]="951", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="84", ["maximum"]="2384"
                 }
               }
             },
@@ -6619,7 +6626,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1322", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="3240"
+                  ["average"]="1322", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="3240"
                 },
                 ["03"] = {
                   ["average"]="2330", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="700", ["maximum"]="22000"
@@ -6813,7 +6820,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1582", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="440", ["maximum"]="8000"
+                  ["average"]="1582", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="440", ["maximum"]="8000"
                 },
                 ["02"] = {
                   ["average"]="1235", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="11000"
@@ -7135,7 +7142,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4615", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="550", ["maximum"]="20000"
+                  ["average"]="4197", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="9601"
                 },
                 ["05"] = {
                   ["average"]="5426", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="55000"
@@ -7178,7 +7185,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1055223", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="912233", ["maximum"]="1190000"
+                  ["average"]="1055223", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="912233", ["maximum"]="1190000"
                 },
                 ["05"] = {
                   ["average"]="1746477", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1500000", ["maximum"]="2750000"
@@ -7221,7 +7228,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3299", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="10039"
+                  ["average"]="3122", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="10039"
                 },
                 ["04"] = {
                   ["average"]="2411", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="650", ["maximum"]="11000"
@@ -7260,7 +7267,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="951", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="2850"
+                  ["average"]="951", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="2850"
                 },
                 ["03"] = {
                   ["average"]="563", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="440", ["maximum"]="6871"
@@ -7480,7 +7487,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3655", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1200", ["maximum"]="10000"
+                  ["average"]="3655", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1200", ["maximum"]="10000"
                 },
                 ["04"] = {
                   ["average"]="2155", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="872", ["maximum"]="14509"
@@ -7543,7 +7550,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2660", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="4000"
+                  ["average"]="2920", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="560", ["maximum"]="4000"
                 },
                 ["02"] = {
                   ["average"]="4653", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="3400", ["maximum"]="5566"
@@ -7575,7 +7582,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="10561", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="15000"
+                  ["average"]="10561", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="15000"
                 },
                 ["04"] = {
                   ["average"]="18102", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="22000"
@@ -7618,7 +7625,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="9269", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1150", ["maximum"]="12000"
+                  ["average"]="9269", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1150", ["maximum"]="12000"
                 }
               }
             },
@@ -7689,7 +7696,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2937", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="153", ["maximum"]="4790"
+                  ["average"]="2937", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="153", ["maximum"]="4790"
                 },
                 ["03"] = {
                   ["average"]="5500", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="5500"
@@ -7833,7 +7840,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1810", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1200", ["maximum"]="3927"
+                  ["average"]="1864", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1200", ["maximum"]="3927"
                 },
                 ["02"] = {
                   ["average"]="1827", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="3300"
@@ -7872,7 +7879,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="11731", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="18675"
+                  ["average"]="11731", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="18675"
                 },
                 ["05"] = {
                   ["average"]="27046", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="18000", ["maximum"]="55000"
@@ -7915,7 +7922,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="102", ["date"]="2026-07-26", ["commonQuantity"]="20", ["minimum"]="44", ["maximum"]="150"
+                  ["average"]="102", ["date"]="2026-08-10", ["commonQuantity"]="20", ["minimum"]="44", ["maximum"]="150"
                 }
               }
             },
@@ -7955,7 +7962,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="23090", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="40000"
+                  ["average"]="23090", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="40000"
                 },
                 ["02"] = {
                   ["average"]="50812", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="42000", ["maximum"]="53900"
@@ -7994,7 +8001,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="44757", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="33000", ["maximum"]="108785"
+                  ["average"]="46057", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="33000", ["maximum"]="108785"
                 },
                 ["04"] = {
                   ["average"]="41544", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="121000"
@@ -8072,7 +8079,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1142", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="183", ["maximum"]="4000"
+                  ["average"]="1278", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="4000"
                 },
                 ["03"] = {
                   ["average"]="3314", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1090", ["maximum"]="5500"
@@ -8214,7 +8221,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="78189", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="78189", ["maximum"]="78189"
+                  ["average"]="78189", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="78189", ["maximum"]="78189"
                 }
               }
             },
@@ -8243,7 +8250,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1146", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="105", ["maximum"]="5434"
+                  ["average"]="1146", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="105", ["maximum"]="5434"
                 },
                 ["02"] = {
                   ["average"]="155", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="141", ["maximum"]="155"
@@ -8306,7 +8313,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="37473", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="35000", ["maximum"]="49000"
+                  ["average"]="37473", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="35000", ["maximum"]="49000"
                 },
                 ["04"] = {
                   ["average"]="62423", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="66000"
@@ -8349,7 +8356,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7181", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="8000"
+                  ["average"]="7078", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="8000"
                 },
                 ["04"] = {
                   ["average"]="11012", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="55000"
@@ -8392,7 +8399,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="378", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="1000"
+                  ["average"]="374", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="800"
                 },
                 ["03"] = {
                   ["average"]="226", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1", ["maximum"]="1100"
@@ -8435,7 +8442,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="208", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="91", ["maximum"]="998"
+                  ["average"]="208", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="91", ["maximum"]="998"
                 },
                 ["01"] = {
                   ["average"]="605", ["date"]="2025-11-02", ["commonQuantity"]="2", ["minimum"]="175", ["maximum"]="605"
@@ -8478,7 +8485,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1259", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="515", ["maximum"]="2000"
+                  ["average"]="458", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="2000"
                 },
                 ["04"] = {
                   ["average"]="1547", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="22000"
@@ -8601,7 +8608,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4443", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="120", ["maximum"]="25090"
+                  ["average"]="4702", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="140", ["maximum"]="25090"
                 },
                 ["02"] = {
                   ["average"]="2431", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="93489"
@@ -8937,7 +8944,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2802", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5300"
+                  ["average"]="2061", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="2802"
                 },
                 ["04"] = {
                   ["average"]="7428", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="22043"
@@ -8980,7 +8987,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="292", ["date"]="2026-07-26", ["commonQuantity"]="200", ["minimum"]="225", ["maximum"]="400"
+                  ["average"]="264", ["date"]="2026-08-10", ["commonQuantity"]="200", ["minimum"]="167", ["maximum"]="350"
                 },
                 ["01"] = {
                   ["average"]="339", ["date"]="2025-11-13", ["commonQuantity"]="200", ["minimum"]="100", ["maximum"]="777"
@@ -9018,7 +9025,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="9700", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="13000"
+                  ["average"]="9250", ["date"]="2026-08-10", ["commonQuantity"]="2", ["minimum"]="7000", ["maximum"]="13000"
                 }
               }
             },
@@ -9051,7 +9058,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8529", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="15000"
+                  ["average"]="9009", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="15000"
                 },
                 ["03"] = {
                   ["average"]="42865", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="192533"
@@ -9090,7 +9097,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="48024", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="36700", ["maximum"]="55000"
+                  ["average"]="48754", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="55000"
                 },
                 ["04"] = {
                   ["average"]="70291", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="58531", ["maximum"]="88000"
@@ -9133,7 +9140,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="688", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="3000"
+                  ["average"]="391", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="3000"
                 },
                 ["04"] = {
                   ["average"]="1462", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="7700"
@@ -9172,7 +9179,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4335", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="999", ["maximum"]="11246"
+                  ["average"]="4335", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="999", ["maximum"]="11246"
                 },
                 ["02"] = {
                   ["average"]="939", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="854", ["maximum"]="22264"
@@ -9458,7 +9465,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="18864", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="30000"
+                  ["average"]="18864", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="30000"
                 },
                 ["04"] = {
                   ["average"]="34587", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="16000", ["maximum"]="41843"
@@ -9501,7 +9508,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3701", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="7990"
+                  ["average"]="3701", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="7990"
                 },
                 ["03"] = {
                   ["average"]="2327", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="9075"
@@ -9551,7 +9558,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="804", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="230", ["maximum"]="2000"
+                  ["average"]="901", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="230", ["maximum"]="2000"
                 },
                 ["03"] = {
                   ["average"]="1580", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="6600"
@@ -9594,7 +9601,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3468", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="650", ["maximum"]="8950"
+                  ["average"]="3468", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="650", ["maximum"]="8950"
                 },
                 ["03"] = {
                   ["average"]="2890", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="2890"
@@ -9619,7 +9626,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="464", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="105", ["maximum"]="1141"
+                  ["average"]="464", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="105", ["maximum"]="1141"
                 },
                 ["02"] = {
                   ["average"]="155", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="141", ["maximum"]="660"
@@ -9689,7 +9696,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6022", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="4500", ["maximum"]="10000"
+                  ["average"]="6094", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="4500", ["maximum"]="10000"
                 },
                 ["03"] = {
                   ["average"]="33000", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="33000"
@@ -9728,7 +9735,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2175", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="735", ["maximum"]="5030"
+                  ["average"]="2353", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="735", ["maximum"]="5030"
                 },
                 ["03"] = {
                   ["average"]="7141", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3300", ["maximum"]="22000"
@@ -9797,7 +9804,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="12979", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="9800", ["maximum"]="16690"
+                  ["average"]="12979", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="9800", ["maximum"]="16690"
                 },
                 ["04"] = {
                   ["average"]="16493", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="14990", ["maximum"]="18359"
@@ -9833,7 +9840,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1901", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1200", ["maximum"]="2230"
+                  ["average"]="1775", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1199", ["maximum"]="2152"
                 },
                 ["03"] = {
                   ["average"]="2088", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="11033"
@@ -9872,7 +9879,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="11742", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="55030"
+                  ["average"]="11388", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="55030"
                 },
                 ["03"] = {
                   ["average"]="5190", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="9722"
@@ -9911,7 +9918,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="800", ["date"]="2026-07-26", ["commonQuantity"]="2", ["minimum"]="500", ["maximum"]="1000"
+                  ["average"]="800", ["date"]="2026-08-10", ["commonQuantity"]="2", ["minimum"]="500", ["maximum"]="1000"
                 }
               }
             },
@@ -9937,7 +9944,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="10864", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="15000"
+                  ["average"]="10864", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="15000"
                 },
                 ["03"] = {
                   ["average"]="15829", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="25336"
@@ -10051,7 +10058,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1571", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="180", ["maximum"]="8000"
+                  ["average"]="1596", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="180", ["maximum"]="8000"
                 },
                 ["02"] = {
                   ["average"]="3761", ["date"]="2025-10-05", ["commonQuantity"]="1", ["minimum"]="174", ["maximum"]="8800"
@@ -10376,7 +10383,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="918", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="918", ["maximum"]="918"
+                  ["average"]="918", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="918", ["maximum"]="918"
                 }
               }
             },
@@ -10404,7 +10411,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1942", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="335", ["maximum"]="10240"
+                  ["average"]="1994", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="335", ["maximum"]="10240"
                 },
                 ["02"] = {
                   ["average"]="2438", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="54941"
@@ -10728,7 +10735,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4213", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="20150"
+                  ["average"]="4213", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="20150"
                 },
                 ["02"] = {
                   ["average"]="949", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="38", ["maximum"]="30800"
@@ -10825,7 +10832,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1009", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="800", ["maximum"]="1246"
+                  ["average"]="1009", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="800", ["maximum"]="1246"
                 },
                 ["03"] = {
                   ["average"]="3423", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="7920"
@@ -10986,7 +10993,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2809", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="4000"
+                  ["average"]="2604", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="4000"
                 },
                 ["04"] = {
                   ["average"]="6209", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="39", ["maximum"]="16500"
@@ -11029,7 +11036,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="43", ["date"]="2026-07-26", ["commonQuantity"]="200", ["minimum"]="9", ["maximum"]="55"
+                  ["average"]="43", ["date"]="2026-08-10", ["commonQuantity"]="200", ["minimum"]="9", ["maximum"]="55"
                 }
               }
             },
@@ -11065,7 +11072,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2291", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="5500"
+                  ["average"]="2291", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="5500"
                 },
                 ["02"] = {
                   ["average"]="86", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="78", ["maximum"]="38500"
@@ -11364,7 +11371,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2375", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="700", ["maximum"]="5000"
+                  ["average"]="2375", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="700", ["maximum"]="5000"
                 },
                 ["02"] = {
                   ["average"]="1071", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="583", ["maximum"]="3330"
@@ -11557,7 +11564,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="397", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="1000"
+                  ["average"]="397", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="1000"
                 }
               }
             },
@@ -11565,6 +11572,13 @@
               ["--"] = {
                 ["--"] = {
                   ["average"]="250", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="250"
+                }
+              }
+            },
+            ["ps-na"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="450", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="450", ["maximum"]="450"
                 }
               }
             }
@@ -11579,7 +11593,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="143", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="300"
+                  ["average"]="70", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="110"
                 },
                 ["02"] = {
                   ["average"]="201", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="2199"
@@ -11622,7 +11636,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1142", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="420", ["maximum"]="3234"
+                  ["average"]="1142", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="420", ["maximum"]="3234"
                 },
                 ["03"] = {
                   ["average"]="1056", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="596", ["maximum"]="2471"
@@ -12016,7 +12030,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7072", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="8000"
+                  ["average"]="7072", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="8000"
                 },
                 ["04"] = {
                   ["average"]="12098", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="12100"
@@ -12055,7 +12069,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3930", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="5534"
+                  ["average"]="4308", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="550", ["maximum"]="5534"
                 },
                 ["03"] = {
                   ["average"]="550", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="550"
@@ -12102,7 +12116,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="17698", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="16798", ["maximum"]="18500"
+                  ["average"]="17698", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="16798", ["maximum"]="18500"
                 },
                 ["04"] = {
                   ["average"]="38500", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="35000", ["maximum"]="38500"
@@ -12122,6 +12136,13 @@
                   ["average"]="22598", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="12752", ["maximum"]="35000"
                 }
               }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="30000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="30000"
+                }
+              }
             }
           })[tostring(platform)]
         end,
@@ -12130,7 +12151,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3092", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="4195"
+                  ["average"]="3092", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="4195"
                 },
                 ["03"] = {
                   ["average"]="5467", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="3900", ["maximum"]="9900"
@@ -12166,7 +12187,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="9", ["date"]="2026-07-26", ["commonQuantity"]="100", ["minimum"]="7", ["maximum"]="9"
+                  ["average"]="9", ["date"]="2026-08-10", ["commonQuantity"]="100", ["minimum"]="7", ["maximum"]="9"
                 }
               }
             },
@@ -12188,7 +12209,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3442", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="234", ["maximum"]="10250"
+                  ["average"]="3524", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="234", ["maximum"]="10250"
                 },
                 ["02"] = {
                   ["average"]="4780", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="340", ["maximum"]="16771"
@@ -12491,7 +12512,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2201", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5076"
+                  ["average"]="2388", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1030", ["maximum"]="5076"
                 },
                 ["03"] = {
                   ["average"]="5819", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="16500"
@@ -12530,7 +12551,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4673", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="7000"
+                  ["average"]="4673", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="7000"
                 }
               }
             }
@@ -12549,7 +12570,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7277", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5039", ["maximum"]="11000"
+                  ["average"]="7483", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5039", ["maximum"]="11000"
                 },
                 ["04"] = {
                   ["average"]="9630", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="71500"
@@ -12588,7 +12609,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="136", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="15", ["maximum"]="221"
+                  ["average"]="136", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="15", ["maximum"]="221"
                 },
                 ["01"] = {
                   ["average"]="161", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="15", ["maximum"]="385"
@@ -12639,7 +12660,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="110000", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="110000", ["maximum"]="110000"
+                  ["average"]="110000", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="110000", ["maximum"]="110000"
                 },
                 ["04"] = {
                   ["average"]="22000", ["date"]="2025-08-26", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="22000"
@@ -12661,7 +12682,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2590", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="14246"
+                  ["average"]="2590", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="14246"
                 },
                 ["02"] = {
                   ["average"]="2546", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="434", ["maximum"]="11000"
@@ -12949,7 +12970,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="23421", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="37723"
+                  ["average"]="22782", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="37723"
                 },
                 ["04"] = {
                   ["average"]="1430", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1300", ["maximum"]="27500"
@@ -12992,7 +13013,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4775", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="10300"
+                  ["average"]="4775", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="10300"
                 },
                 ["04"] = {
                   ["average"]="8966", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="8151", ["maximum"]="8966"
@@ -13021,7 +13042,14 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="269500", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="200000", ["maximum"]="339000"
+                  ["average"]="269500", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="200000", ["maximum"]="339000"
+                }
+              }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="250000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="250000", ["maximum"]="250000"
                 }
               }
             }
@@ -13105,7 +13133,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2892", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="8997"
+                  ["average"]="2943", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="8997"
                 },
                 ["03"] = {
                   ["average"]="1720", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="700", ["maximum"]="3300"
@@ -13354,7 +13382,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1654", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="3000"
+                  ["average"]="1654", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="3000"
                 },
                 ["02"] = {
                   ["average"]="1420", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="40", ["maximum"]="3850"
@@ -13397,7 +13425,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8101", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="12000"
+                  ["average"]="8101", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="12000"
                 },
                 ["03"] = {
                   ["average"]="11000", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="11000"
@@ -13436,7 +13464,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="14573", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5150", ["maximum"]="33000"
+                  ["average"]="14573", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5150", ["maximum"]="33000"
                 }
               }
             },
@@ -13462,7 +13490,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2366", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="4000"
+                  ["average"]="2366", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="4000"
                 },
                 ["04"] = {
                   ["average"]="8863", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="6300", ["maximum"]="10230"
@@ -13540,7 +13568,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="408", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="2000"
+                  ["average"]="491", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="2000"
                 },
                 ["02"] = {
                   ["average"]="642", ["date"]="2025-10-15", ["commonQuantity"]="2", ["minimum"]="560", ["maximum"]="3300"
@@ -13576,7 +13604,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1366", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="4234"
+                  ["average"]="1366", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="4234"
                 },
                 ["02"] = {
                   ["average"]="6600", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="4250", ["maximum"]="11000"
@@ -13757,7 +13785,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8", ["date"]="2026-07-26", ["commonQuantity"]="100", ["minimum"]="2", ["maximum"]="64"
+                  ["average"]="8", ["date"]="2026-08-10", ["commonQuantity"]="100", ["minimum"]="2", ["maximum"]="64"
                 }
               }
             },
@@ -13826,7 +13854,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1458", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="287", ["maximum"]="5400"
+                  ["average"]="1458", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="287", ["maximum"]="5400"
                 },
                 ["04"] = {
                   ["average"]="3300", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="3300"
@@ -13988,7 +14016,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="11174", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="9298", ["maximum"]="14413"
+                  ["average"]="11174", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="9298", ["maximum"]="14413"
                 },
                 ["05"] = {
                   ["average"]="7297", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="24200"
@@ -14031,7 +14059,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7025", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="10000"
+                  ["average"]="6863", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="10000"
                 },
                 ["03"] = {
                   ["average"]="11172", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="900", ["maximum"]="55000"
@@ -14070,7 +14098,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1246", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="125", ["maximum"]="3000"
+                  ["average"]="1165", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="125", ["maximum"]="3000"
                 },
                 ["03"] = {
                   ["average"]="1519", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="30", ["maximum"]="3300"
@@ -14113,7 +14141,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2576", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="434", ["maximum"]="10234"
+                  ["average"]="2576", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="434", ["maximum"]="10234"
                 },
                 ["02"] = {
                   ["average"]="11257", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="10234", ["maximum"]="11257"
@@ -14291,7 +14319,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2478", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="6000"
+                  ["average"]="2344", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="6000"
                 },
                 ["03"] = {
                   ["average"]="1643", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1150", ["maximum"]="5500"
@@ -14330,7 +14358,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6472", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1300", ["maximum"]="12058"
+                  ["average"]="6472", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1300", ["maximum"]="12058"
                 },
                 ["04"] = {
                   ["average"]="5323", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="11000"
@@ -14369,7 +14397,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="868", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="2240"
+                  ["average"]="868", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="2240"
                 },
                 ["02"] = {
                   ["average"]="605", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="550", ["maximum"]="3564"
@@ -14782,7 +14810,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6813", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="333", ["maximum"]="14000"
+                  ["average"]="6788", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="333", ["maximum"]="14000"
                 },
                 ["04"] = {
                   ["average"]="18702", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="30800"
@@ -14821,7 +14849,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="28484", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="21000", ["maximum"]="54971"
+                  ["average"]="28258", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="21000", ["maximum"]="54971"
                 },
                 ["04"] = {
                   ["average"]="35879", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="37400"
@@ -14864,7 +14892,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7499", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="13300"
+                  ["average"]="7499", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="13300"
                 },
                 ["04"] = {
                   ["average"]="11011", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5940", ["maximum"]="12430"
@@ -14900,7 +14928,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6687", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="14000"
+                  ["average"]="6687", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="14000"
                 },
                 ["03"] = {
                   ["average"]="6247", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="2667", ["maximum"]="11000"
@@ -14939,7 +14967,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="15339", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="40000"
+                  ["average"]="13295", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="18000"
                 },
                 ["04"] = {
                   ["average"]="11795", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="22000"
@@ -14982,7 +15010,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3655", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="546", ["maximum"]="13119"
+                  ["average"]="3702", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="635", ["maximum"]="13119"
                 },
                 ["03"] = {
                   ["average"]="2298", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="999", ["maximum"]="8800"
@@ -15356,7 +15384,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="38", ["date"]="2026-07-26", ["commonQuantity"]="200", ["minimum"]="6", ["maximum"]="40"
+                  ["average"]="38", ["date"]="2026-08-10", ["commonQuantity"]="200", ["minimum"]="6", ["maximum"]="40"
                 },
                 ["01"] = {
                   ["average"]="31", ["date"]="2025-11-02", ["commonQuantity"]="4", ["minimum"]="28", ["maximum"]="37"
@@ -15399,7 +15427,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6034", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
+                  ["average"]="5340", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10000"
                 },
                 ["05"] = {
                   ["average"]="4668", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="900", ["maximum"]="110000"
@@ -15438,7 +15466,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8244", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="18000"
+                  ["average"]="7985", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="9950"
                 },
                 ["03"] = {
                   ["average"]="10362", ["date"]="2025-11-02", ["commonQuantity"]="2", ["minimum"]="7500", ["maximum"]="31845"
@@ -15477,7 +15505,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1469", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="234", ["maximum"]="4240"
+                  ["average"]="1469", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="234", ["maximum"]="4240"
                 },
                 ["02"] = {
                   ["average"]="1321", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1199", ["maximum"]="3630"
@@ -15837,7 +15865,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8143", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="13500"
+                  ["average"]="8339", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="13500"
                 },
                 ["02"] = {
                   ["average"]="25618", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="36300"
@@ -15888,7 +15916,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="79990", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="79990", ["maximum"]="79990"
+                  ["average"]="79990", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="79990", ["maximum"]="79990"
                 }
               }
             }
@@ -15903,7 +15931,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6800", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5421", ["maximum"]="8000"
+                  ["average"]="6825", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5421", ["maximum"]="8000"
                 },
                 ["03"] = {
                   ["average"]="5880", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3150", ["maximum"]="14465"
@@ -15946,7 +15974,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="49698", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="26391", ["maximum"]="100000"
+                  ["average"]="49698", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="26391", ["maximum"]="100000"
                 },
                 ["05"] = {
                   ["average"]="31013", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3999", ["maximum"]="34320"
@@ -15985,7 +16013,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3836", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="450", ["maximum"]="6000"
+                  ["average"]="3836", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="450", ["maximum"]="6000"
                 },
                 ["03"] = {
                   ["average"]="2886", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5500"
@@ -16028,7 +16056,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="9634", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="20000"
+                  ["average"]="8220", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="20000"
                 },
                 ["04"] = {
                   ["average"]="13365", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="275000"
@@ -16063,7 +16091,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="45", ["date"]="2026-07-26", ["commonQuantity"]="200", ["minimum"]="28", ["maximum"]="60"
+                  ["average"]="43", ["date"]="2026-08-10", ["commonQuantity"]="200", ["minimum"]="33", ["maximum"]="58"
                 },
                 ["01"] = {
                   ["average"]="58", ["date"]="2025-11-13", ["commonQuantity"]="200", ["minimum"]="3", ["maximum"]="157"
@@ -16105,7 +16133,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2814", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
+                  ["average"]="2814", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
                 },
                 ["03"] = {
                   ["average"]="1427", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="20900"
@@ -16159,7 +16187,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="911", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="3000"
+                  ["average"]="1009", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="3000"
                 },
                 ["02"] = {
                   ["average"]="220", ["date"]="2023-09-06", ["commonQuantity"]="1", ["minimum"]="55", ["maximum"]="11000"
@@ -16205,7 +16233,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5406", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1150", ["maximum"]="12000"
+                  ["average"]="5406", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1150", ["maximum"]="12000"
                 }
               }
             },
@@ -16241,7 +16269,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2070", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="3260"
+                  ["average"]="2253", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="960", ["maximum"]="3260"
                 },
                 ["02"] = {
                   ["average"]="2413", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="2176", ["maximum"]="3465"
@@ -16277,7 +16305,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2232", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="950", ["maximum"]="5150"
+                  ["average"]="2232", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="950", ["maximum"]="5150"
                 }
               }
             },
@@ -16299,7 +16327,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7374", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="15000"
+                  ["average"]="7111", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="15000"
                 },
                 ["05"] = {
                   ["average"]="2510", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="569", ["maximum"]="22000"
@@ -16346,7 +16374,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="816", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="342", ["maximum"]="1840"
+                  ["average"]="816", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="342", ["maximum"]="1840"
                 },
                 ["03"] = {
                   ["average"]="986", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="480", ["maximum"]="2178"
@@ -16413,7 +16441,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1264900", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="750000", ["maximum"]="1600000"
+                  ["average"]="1264900", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="750000", ["maximum"]="1600000"
                 },
                 ["05"] = {
                   ["average"]="1499429", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="600000", ["maximum"]="1650000"
@@ -16471,7 +16499,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="11", ["date"]="2026-07-26", ["commonQuantity"]="6", ["minimum"]="6", ["maximum"]="18"
+                  ["average"]="11", ["date"]="2026-08-10", ["commonQuantity"]="6", ["minimum"]="6", ["maximum"]="18"
                 }
               }
             }
@@ -16543,7 +16571,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2117", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="10000"
+                  ["average"]="2117", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="10000"
                 },
                 ["02"] = {
                   ["average"]="5692", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="2180", ["maximum"]="71500"
@@ -16740,7 +16768,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1030", ["date"]="2026-07-26", ["commonQuantity"]="2", ["minimum"]="100", ["maximum"]="1965"
+                  ["average"]="1030", ["date"]="2026-08-10", ["commonQuantity"]="2", ["minimum"]="100", ["maximum"]="1965"
                 }
               }
             },
@@ -16806,7 +16834,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6229", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="153", ["maximum"]="35650"
+                  ["average"]="6988", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="999", ["maximum"]="35650"
                 },
                 ["02"] = {
                   ["average"]="488", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="444", ["maximum"]="9900"
@@ -16971,7 +16999,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="39048", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="70000"
+                  ["average"]="39048", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="70000"
                 }
               },
               ["07"] = {
@@ -17019,7 +17047,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7774", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="10030"
+                  ["average"]="7716", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="10030"
                 },
                 ["03"] = {
                   ["average"]="8213", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="22033"
@@ -17058,7 +17086,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="20", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="20"
+                  ["average"]="20", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="20", ["maximum"]="20"
                 }
               }
             },
@@ -17080,7 +17108,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="11382", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="13742"
+                  ["average"]="11622", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="15000"
                 },
                 ["04"] = {
                   ["average"]="13317", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="16500"
@@ -17119,7 +17147,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="100000", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="100000", ["maximum"]="100000"
+                  ["average"]="100000", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="100000", ["maximum"]="100000"
                 }
               }
             }
@@ -17216,7 +17244,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1387", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="5000"
+                  ["average"]="1387", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="5000"
                 },
                 ["01"] = {
                   ["average"]="110", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="27555"
@@ -17489,7 +17517,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1144", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="530", ["maximum"]="3000"
+                  ["average"]="1057", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="530", ["maximum"]="2000"
                 },
                 ["03"] = {
                   ["average"]="1063", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="130", ["maximum"]="2750"
@@ -17528,7 +17556,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3005", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2299", ["maximum"]="3327"
+                  ["average"]="3005", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2299", ["maximum"]="3327"
                 },
                 ["03"] = {
                   ["average"]="6050", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="6050"
@@ -17557,7 +17585,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="22019", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="19876", ["maximum"]="23888"
+                  ["average"]="22019", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="19876", ["maximum"]="23888"
                 },
                 ["04"] = {
                   ["average"]="27078", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="10039", ["maximum"]="38543"
@@ -17633,7 +17661,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="10567", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="7200", ["maximum"]="14593"
+                  ["average"]="10600", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="7200", ["maximum"]="14593"
                 },
                 ["04"] = {
                   ["average"]="21960", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="75900"
@@ -17672,7 +17700,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="501780", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="350000", ["maximum"]="550000"
+                  ["average"]="423992", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="240000", ["maximum"]="501780"
                 },
                 ["05"] = {
                   ["average"]="741327", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="400000", ["maximum"]="964201"
@@ -17711,7 +17739,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="764", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="1250"
+                  ["average"]="764", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="1250"
                 },
                 ["02"] = {
                   ["average"]="7700", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="7700"
@@ -17743,7 +17771,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="10", ["date"]="2026-07-26", ["commonQuantity"]="100", ["minimum"]="6", ["maximum"]="76"
+                  ["average"]="10", ["date"]="2026-08-10", ["commonQuantity"]="100", ["minimum"]="6", ["maximum"]="76"
                 }
               }
             }
@@ -17762,7 +17790,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1913", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="3000"
+                  ["average"]="1913", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="3000"
                 }
               }
             }
@@ -17793,7 +17821,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="85000", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="80000", ["maximum"]="90000"
+                  ["average"]="85000", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="80000", ["maximum"]="90000"
                 },
                 ["04"] = {
                   ["average"]="33000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="33000"
@@ -17811,7 +17839,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="36", ["date"]="2026-07-26", ["commonQuantity"]="200", ["minimum"]="9", ["maximum"]="103"
+                  ["average"]="30", ["date"]="2026-08-10", ["commonQuantity"]="200", ["minimum"]="3", ["maximum"]="40"
                 },
                 ["01"] = {
                   ["average"]="20", ["date"]="2025-11-13", ["commonQuantity"]="200", ["minimum"]="2", ["maximum"]="138"
@@ -17947,7 +17975,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8062", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="25189"
+                  ["average"]="8062", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="25189"
                 },
                 ["02"] = {
                   ["average"]="11300", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="274", ["maximum"]="110000"
@@ -18375,7 +18403,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6568", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="9000"
+                  ["average"]="6571", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="9000"
                 },
                 ["05"] = {
                   ["average"]="22267", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="35596"
@@ -18414,7 +18442,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="692", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="1150"
+                  ["average"]="692", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="1150"
                 },
                 ["03"] = {
                   ["average"]="385", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="99000"
@@ -18514,7 +18542,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2819", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="4780"
+                  ["average"]="3042", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1250", ["maximum"]="4780"
                 },
                 ["03"] = {
                   ["average"]="10780", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="2150", ["maximum"]="10780"
@@ -18546,7 +18574,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="10035", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="11319"
+                  ["average"]="9810", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="10332"
                 },
                 ["04"] = {
                   ["average"]="15391", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="453", ["maximum"]="22043"
@@ -18585,7 +18613,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="227212", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5039", ["maximum"]="286808"
+                  ["average"]="249429", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="185000", ["maximum"]="286808"
                 },
                 ["04"] = {
                   ["average"]="394187", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="350000", ["maximum"]="510114"
@@ -18628,7 +18656,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="13950", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="25000"
+                  ["average"]="13898", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="15477"
                 },
                 ["04"] = {
                   ["average"]="10986", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="7500", ["maximum"]="24243"
@@ -18671,7 +18699,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2515", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="5000"
+                  ["average"]="2051", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="2515"
                 },
                 ["04"] = {
                   ["average"]="5003", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="11000"
@@ -18710,7 +18738,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1742", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="4153"
+                  ["average"]="1742", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="4153"
                 },
                 ["04"] = {
                   ["average"]="5324", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="953", ["maximum"]="36468"
@@ -18845,7 +18873,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2173", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2173", ["maximum"]="2173"
+                  ["average"]="2173", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2173", ["maximum"]="2173"
                 }
               }
             }
@@ -18860,7 +18888,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3152", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="10000"
+                  ["average"]="3152", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="10000"
                 },
                 ["02"] = {
                   ["average"]="2557", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="108", ["maximum"]="11000"
@@ -19099,7 +19127,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="39367", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="27500", ["maximum"]="73675"
+                  ["average"]="39367", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="27500", ["maximum"]="73675"
                 }
               }
             },
@@ -19139,7 +19167,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="246", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="246", ["maximum"]="246"
+                  ["average"]="246", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="246", ["maximum"]="246"
                 }
               },
               ["01"] = {
@@ -19176,7 +19204,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="26795", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="13022", ["maximum"]="50000"
+                  ["average"]="27704", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="13022", ["maximum"]="50000"
                 },
                 ["04"] = {
                   ["average"]="55000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="27000", ["maximum"]="55000"
@@ -19358,7 +19386,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1200", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="3326"
+                  ["average"]="1216", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="245", ["maximum"]="3326"
                 },
                 ["02"] = {
                   ["average"]="620", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="274", ["maximum"]="3300"
@@ -19710,7 +19738,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="53962", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="145163"
+                  ["average"]="53962", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="145163"
                 },
                 ["04"] = {
                   ["average"]="44000", ["date"]="2025-08-26", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="44000"
@@ -19749,7 +19777,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2348", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="10069"
+                  ["average"]="2348", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="10069"
                 },
                 ["02"] = {
                   ["average"]="928", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="330", ["maximum"]="11000"
@@ -19969,7 +19997,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="239", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="562"
+                  ["average"]="264", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="72", ["maximum"]="900"
                 },
                 ["03"] = {
                   ["average"]="146", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="10", ["maximum"]="1100"
@@ -20008,7 +20036,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8394", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="11000"
+                  ["average"]="8234", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="4900", ["maximum"]="16000"
                 },
                 ["03"] = {
                   ["average"]="9723", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="4265", ["maximum"]="16500"
@@ -20138,7 +20166,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2055", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="4000"
+                  ["average"]="2055", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="4000"
                 },
                 ["02"] = {
                   ["average"]="2412", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="87", ["maximum"]="77000"
@@ -20496,7 +20524,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="14749", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="12000", ["maximum"]="29000"
+                  ["average"]="14749", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="12000", ["maximum"]="29000"
                 },
                 ["04"] = {
                   ["average"]="11513", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="5039", ["maximum"]="20900"
@@ -20539,7 +20567,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="750", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="2400"
+                  ["average"]="700", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="2400"
                 },
                 ["04"] = {
                   ["average"]="1337", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="5500"
@@ -20589,7 +20617,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="303", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="400"
+                  ["average"]="303", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="400"
                 },
                 ["02"] = {
                   ["average"]="178", ["date"]="2025-09-27", ["commonQuantity"]="1", ["minimum"]="162", ["maximum"]="178"
@@ -20642,7 +20670,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="307", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="542"
+                  ["average"]="307", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="542"
                 }
               }
             },
@@ -20779,7 +20807,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1865", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="187", ["maximum"]="5500"
+                  ["average"]="1888", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="187", ["maximum"]="5500"
                 },
                 ["02"] = {
                   ["average"]="1650", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="6090"
@@ -21104,7 +21132,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7840", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="15000"
+                  ["average"]="7418", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="15000"
                 },
                 ["05"] = {
                   ["average"]="9266", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="420", ["maximum"]="44000"
@@ -21143,7 +21171,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1217", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="230", ["maximum"]="5000"
+                  ["average"]="938", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="700", ["maximum"]="1081"
                 },
                 ["03"] = {
                   ["average"]="858", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="33", ["maximum"]="5500"
@@ -21186,7 +21214,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7360", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="9634"
+                  ["average"]="7468", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="9634"
                 },
                 ["04"] = {
                   ["average"]="47985", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="110000"
@@ -21225,7 +21253,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6142", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="10000"
+                  ["average"]="6142", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="10000"
                 },
                 ["04"] = {
                   ["average"]="8250", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="7500", ["maximum"]="8250"
@@ -21254,7 +21282,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="25762", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="19000", ["maximum"]="56385"
+                  ["average"]="28139", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="19000", ["maximum"]="56385"
                 },
                 ["05"] = {
                   ["average"]="27870", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="24000", ["maximum"]="66742"
@@ -21274,6 +21302,13 @@
                   ["average"]="24870", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="12675", ["maximum"]="43675"
                 }
               }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="50000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="50000"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -21286,7 +21321,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="920", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="139", ["maximum"]="1700"
+                  ["average"]="403", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="1161"
                 },
                 ["04"] = {
                   ["average"]="1374", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="19800"
@@ -21325,7 +21360,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="938", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="230", ["maximum"]="2230"
+                  ["average"]="900", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="230", ["maximum"]="2230"
                 },
                 ["03"] = {
                   ["average"]="1068", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="2233"
@@ -21364,7 +21399,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3293", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="425", ["maximum"]="5150"
+                  ["average"]="3293", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="425", ["maximum"]="5150"
                 },
                 ["02"] = {
                   ["average"]="384", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="344", ["maximum"]="1258"
@@ -21548,7 +21583,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="19939", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="30000"
+                  ["average"]="20556", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="30000"
                 },
                 ["04"] = {
                   ["average"]="31504", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="11000", ["maximum"]="44000"
@@ -21613,7 +21648,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1735", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="800", ["maximum"]="4538"
+                  ["average"]="1692", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="800", ["maximum"]="4538"
                 },
                 ["02"] = {
                   ["average"]="1411", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="14300"
@@ -21652,7 +21687,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="55488", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="10153", ["maximum"]="78156"
+                  ["average"]="55488", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="10153", ["maximum"]="78156"
                 }
               },
               ["03"] = {
@@ -21706,7 +21741,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1053", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="3030"
+                  ["average"]="1081", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="3030"
                 },
                 ["03"] = {
                   ["average"]="1829", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="16500"
@@ -21752,7 +21787,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1088", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="420", ["maximum"]="4500"
+                  ["average"]="687", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="3500"
                 },
                 ["04"] = {
                   ["average"]="1158", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="23", ["maximum"]="5500"
@@ -21794,7 +21829,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6561", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="10000"
+                  ["average"]="6561", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="10000"
                 },
                 ["03"] = {
                   ["average"]="9934", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="11000"
@@ -21833,7 +21868,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6126", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="15339"
+                  ["average"]="6166", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="13039"
                 },
                 ["04"] = {
                   ["average"]="10747", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="38500"
@@ -21966,7 +22001,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5743", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="30000"
+                  ["average"]="6087", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="499", ["maximum"]="30000"
                 },
                 ["02"] = {
                   ["average"]="7726", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="88000"
@@ -22325,7 +22360,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="798", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="3300"
+                  ["average"]="798", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="3300"
                 },
                 ["02"] = {
                   ["average"]="6050", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="760", ["maximum"]="6050"
@@ -22354,7 +22389,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1382", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="800", ["maximum"]="1796"
+                  ["average"]="1382", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="800", ["maximum"]="1796"
                 },
                 ["03"] = {
                   ["average"]="1792", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1150", ["maximum"]="4400"
@@ -22434,7 +22469,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="197818", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="600000"
+                  ["average"]="197818", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="600000"
                 },
                 ["05"] = {
                   ["average"]="659978", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="47750", ["maximum"]="660000"
@@ -22526,7 +22561,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2881", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="6999"
+                  ["average"]="2881", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="6999"
                 },
                 ["02"] = {
                   ["average"]="4950", ["date"]="2025-08-30", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="5390"
@@ -22655,7 +22690,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="910", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="108", ["maximum"]="3141"
+                  ["average"]="910", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="108", ["maximum"]="3141"
                 }
               },
               ["04"] = {
@@ -22692,7 +22727,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="915", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="2240"
+                  ["average"]="915", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="2240"
                 }
               },
               ["03"] = {
@@ -22844,7 +22879,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4614", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="255", ["maximum"]="10000"
+                  ["average"]="4614", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="255", ["maximum"]="10000"
                 },
                 ["04"] = {
                   ["average"]="2667", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="27500"
@@ -22945,7 +22980,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1185", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="555", ["maximum"]="1500"
+                  ["average"]="1185", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="555", ["maximum"]="1500"
                 }
               }
             },
@@ -22990,7 +23025,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2962", ["date"]="2026-07-26", ["commonQuantity"]="2", ["minimum"]="150", ["maximum"]="6000"
+                  ["average"]="3515", ["date"]="2026-08-10", ["commonQuantity"]="2", ["minimum"]="1692", ["maximum"]="6000"
                 },
                 ["03"] = {
                   ["average"]="11000", ["date"]="2025-11-02", ["commonQuantity"]="2", ["minimum"]="10000", ["maximum"]="11000"
@@ -23022,7 +23057,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1190", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="3940"
+                  ["average"]="1190", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="3940"
                 },
                 ["02"] = {
                   ["average"]="2457", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="11271"
@@ -23557,7 +23592,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="9827", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="15777"
+                  ["average"]="9827", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="15777"
                 },
                 ["05"] = {
                   ["average"]="7294", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="51700"
@@ -23596,7 +23631,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="17051", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="40000"
+                  ["average"]="16880", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="40000"
                 },
                 ["04"] = {
                   ["average"]="26352", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="3039", ["maximum"]="165000"
@@ -23635,7 +23670,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7855", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="6503", ["maximum"]="9000"
+                  ["average"]="7460", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="4855", ["maximum"]="9000"
                 },
                 ["04"] = {
                   ["average"]="12915", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="33043"
@@ -23678,7 +23713,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="603", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="204", ["maximum"]="2000"
+                  ["average"]="607", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="204", ["maximum"]="2000"
                 },
                 ["03"] = {
                   ["average"]="1237", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="33", ["maximum"]="5500"
@@ -23721,7 +23756,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8114", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="25000"
+                  ["average"]="6952", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="8569"
                 },
                 ["04"] = {
                   ["average"]="11439", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5500", ["maximum"]="33000"
@@ -23844,7 +23879,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="38835", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="7896", ["maximum"]="120000"
+                  ["average"]="38835", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="7896", ["maximum"]="120000"
                 },
                 ["02"] = {
                   ["average"]="19301", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="199", ["maximum"]="137500"
@@ -24190,7 +24225,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="15557", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="153", ["maximum"]="50000"
+                  ["average"]="15557", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="153", ["maximum"]="50000"
                 },
                 ["02"] = {
                   ["average"]="7700", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="55165"
@@ -24400,7 +24435,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="9690", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="4750", ["maximum"]="14650"
+                  ["average"]="9317", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5500", ["maximum"]="13260"
                 }
               }
             },
@@ -24436,7 +24471,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6004", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="10000"
+                  ["average"]="6004", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="10000"
                 },
                 ["03"] = {
                   ["average"]="6093", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="16500"
@@ -24497,7 +24532,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="9056", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="550", ["maximum"]="11000"
+                  ["average"]="10002", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="6507", ["maximum"]="11000"
                 },
                 ["03"] = {
                   ["average"]="9866", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="12100"
@@ -24544,7 +24579,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="261", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="141", ["maximum"]="500"
+                  ["average"]="261", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="141", ["maximum"]="500"
                 }
               }
             },
@@ -24610,7 +24645,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="30364", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="18500", ["maximum"]="78189"
+                  ["average"]="30364", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="18500", ["maximum"]="78189"
                 },
                 ["04"] = {
                   ["average"]="18571", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="18571", ["maximum"]="18571"
@@ -24698,7 +24733,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="128156", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="128156", ["maximum"]="128156"
+                  ["average"]="128156", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="128156", ["maximum"]="128156"
                 },
                 ["01"] = {
                   ["average"]="33000", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="33000"
@@ -24738,7 +24773,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5604", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="87", ["maximum"]="25000"
+                  ["average"]="5604", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="87", ["maximum"]="25000"
                 },
                 ["02"] = {
                   ["average"]="1341", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="110000"
@@ -24849,7 +24884,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="9346", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="20000"
+                  ["average"]="9976", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="6500", ["maximum"]="20000"
                 },
                 ["04"] = {
                   ["average"]="15229", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="44000"
@@ -24888,7 +24923,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="722", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="2000"
+                  ["average"]="987", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="2000"
                 }
               }
             },
@@ -24921,7 +24956,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8373", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="7300", ["maximum"]="15000"
+                  ["average"]="8373", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="7300", ["maximum"]="15000"
                 }
               }
             },
@@ -24965,7 +25000,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6483", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5500", ["maximum"]="10000"
+                  ["average"]="6483", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5500", ["maximum"]="10000"
                 },
                 ["03"] = {
                   ["average"]="2823", ["date"]="2025-11-02", ["commonQuantity"]="2", ["minimum"]="1750", ["maximum"]="3850"
@@ -25019,7 +25054,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8750", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="6667", ["maximum"]="10000"
+                  ["average"]="8750", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="6667", ["maximum"]="10000"
                 }
               }
             },
@@ -25059,7 +25094,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="13829", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="7700", ["maximum"]="30000"
+                  ["average"]="12193", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="7700", ["maximum"]="17420"
                 },
                 ["04"] = {
                   ["average"]="30846", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="10039", ["maximum"]="44000"
@@ -25115,7 +25150,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1742", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="10000"
+                  ["average"]="1742", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="10000"
                 },
                 ["02"] = {
                   ["average"]="1756", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="350", ["maximum"]="33168"
@@ -25218,7 +25253,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="28760", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3093", ["maximum"]="78093"
+                  ["average"]="41593", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5093", ["maximum"]="78093"
                 }
               }
             },
@@ -25301,7 +25336,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1801", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="330", ["maximum"]="4050"
+                  ["average"]="1801", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="330", ["maximum"]="4050"
                 },
                 ["04"] = {
                   ["average"]="2860", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="2600", ["maximum"]="2860"
@@ -25474,7 +25509,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6566", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="440", ["maximum"]="49252"
+                  ["average"]="6566", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="440", ["maximum"]="49252"
                 },
                 ["03"] = {
                   ["average"]="2351", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="54171"
@@ -25783,7 +25818,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5094", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="7316"
+                  ["average"]="5300", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3670", ["maximum"]="7316"
                 },
                 ["04"] = {
                   ["average"]="8223", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="17596"
@@ -25897,7 +25932,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="723", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="2090"
+                  ["average"]="737", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="2090"
                 },
                 ["02"] = {
                   ["average"]="1100", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="434", ["maximum"]="11000"
@@ -26212,7 +26247,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="234", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="400"
+                  ["average"]="234", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="400"
                 },
                 ["03"] = {
                   ["average"]="462", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="5500"
@@ -26251,7 +26286,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="15967", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="25000"
+                  ["average"]="15967", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="9000", ["maximum"]="25000"
                 }
               }
             },
@@ -26273,7 +26308,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1944", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="2749"
+                  ["average"]="1889", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1100", ["maximum"]="2400"
                 },
                 ["03"] = {
                   ["average"]="8664", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2030", ["maximum"]="27500"
@@ -26312,7 +26347,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6447", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3274", ["maximum"]="11000"
+                  ["average"]="6576", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3274", ["maximum"]="11000"
                 },
                 ["03"] = {
                   ["average"]="20299", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="38024"
@@ -26351,7 +26386,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3956", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1300", ["maximum"]="6000"
+                  ["average"]="3858", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1300", ["maximum"]="6000"
                 },
                 ["04"] = {
                   ["average"]="3612", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="11000"
@@ -26394,7 +26429,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5535", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="9000"
+                  ["average"]="5535", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="9000"
                 },
                 ["04"] = {
                   ["average"]="7006", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="282", ["maximum"]="22000"
@@ -26514,7 +26549,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4059", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="10090"
+                  ["average"]="4059", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="750", ["maximum"]="10090"
                 },
                 ["02"] = {
                   ["average"]="4614", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="60500"
@@ -26796,7 +26831,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="160", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="327"
+                  ["average"]="132", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="327"
                 },
                 ["02"] = {
                   ["average"]="309", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="908"
@@ -26835,7 +26870,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6624", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="7633"
+                  ["average"]="6738", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="7633"
                 },
                 ["04"] = {
                   ["average"]="13713", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="6500", ["maximum"]="17600"
@@ -26870,7 +26905,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="709", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="4000"
+                  ["average"]="501", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="110", ["maximum"]="4000"
                 },
                 ["05"] = {
                   ["average"]="426", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="2200"
@@ -26909,7 +26944,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="49790", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="60045"
+                  ["average"]="49769", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="40000", ["maximum"]="60045"
                 },
                 ["05"] = {
                   ["average"]="110787", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="10045", ["maximum"]="149650"
@@ -26952,7 +26987,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="16088", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="9800", ["maximum"]="20000"
+                  ["average"]="15497", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="9800", ["maximum"]="20000"
                 },
                 ["04"] = {
                   ["average"]="49500", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="45000", ["maximum"]="49500"
@@ -26991,7 +27026,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="541", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1000"
+                  ["average"]="499", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1000"
                 }
               }
             },
@@ -27020,7 +27055,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6813", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="400", ["maximum"]="13000"
+                  ["average"]="7454", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5500", ["maximum"]="13000"
                 },
                 ["03"] = {
                   ["average"]="5500", ["date"]="2025-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="5500"
@@ -27056,7 +27091,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="18756", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="25767"
+                  ["average"]="18756", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="25767"
                 },
                 ["05"] = {
                   ["average"]="48663", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="506000"
@@ -27099,7 +27134,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5322", ["date"]="2026-07-26", ["commonQuantity"]="2", ["minimum"]="5000", ["maximum"]="6800"
+                  ["average"]="5322", ["date"]="2026-08-10", ["commonQuantity"]="2", ["minimum"]="5000", ["maximum"]="6800"
                 },
                 ["04"] = {
                   ["average"]="12595", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="13200"
@@ -27131,7 +27166,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3815", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3794", ["maximum"]="4000"
+                  ["average"]="3815", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3794", ["maximum"]="4000"
                 },
                 ["03"] = {
                   ["average"]="7697", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5500", ["maximum"]="7700"
@@ -27163,7 +27198,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4282", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="5000"
+                  ["average"]="4282", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="5000"
                 },
                 ["02"] = {
                   ["average"]="5500", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="4453", ["maximum"]="41811"
@@ -27262,7 +27297,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="82682", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="200200"
+                  ["average"]="91536", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="200200"
                 },
                 ["04"] = {
                   ["average"]="110000", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="100000", ["maximum"]="110000"
@@ -27294,7 +27329,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="5501", ["date"]="2026-07-26", ["commonQuantity"]="3", ["minimum"]="1630", ["maximum"]="15000"
+                  ["average"]="5501", ["date"]="2026-08-10", ["commonQuantity"]="3", ["minimum"]="1630", ["maximum"]="15000"
                 },
                 ["04"] = {
                   ["average"]="3018", ["date"]="2025-11-13", ["commonQuantity"]="3", ["minimum"]="333", ["maximum"]="5961"
@@ -27333,7 +27368,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1158", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="4999"
+                  ["average"]="1158", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="4999"
                 },
                 ["01"] = {
                   ["average"]="274", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="249", ["maximum"]="5764"
@@ -27630,7 +27665,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1654", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="153", ["maximum"]="5000"
+                  ["average"]="1678", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="153", ["maximum"]="5000"
                 },
                 ["02"] = {
                   ["average"]="158", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="13750"
@@ -27909,7 +27944,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3961", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="5000"
+                  ["average"]="4677", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="9000"
                 },
                 ["04"] = {
                   ["average"]="8050", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2200", ["maximum"]="22043"
@@ -27952,7 +27987,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="659", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="1934"
+                  ["average"]="659", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="1934"
                 },
                 ["03"] = {
                   ["average"]="999", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="800", ["maximum"]="2750"
@@ -28119,7 +28154,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6300", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="7947"
+                  ["average"]="6300", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="7947"
                 },
                 ["03"] = {
                   ["average"]="9335", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="8000", ["maximum"]="13200"
@@ -28158,7 +28193,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2754", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="5027"
+                  ["average"]="2007", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="499", ["maximum"]="5000"
                 },
                 ["02"] = {
                   ["average"]="2809", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1499", ["maximum"]="11030"
@@ -28201,7 +28236,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="825", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="700", ["maximum"]="1000"
+                  ["average"]="825", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="700", ["maximum"]="1000"
                 }
               },
               ["07"] = {
@@ -28253,7 +28288,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="14", ["date"]="2026-07-26", ["commonQuantity"]="100", ["minimum"]="3", ["maximum"]="125"
+                  ["average"]="14", ["date"]="2026-08-10", ["commonQuantity"]="100", ["minimum"]="3", ["maximum"]="125"
                 }
               }
             },
@@ -28289,7 +28324,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="11719", ["date"]="2026-07-26", ["commonQuantity"]="2", ["minimum"]="9000", ["maximum"]="17650"
+                  ["average"]="11719", ["date"]="2026-08-10", ["commonQuantity"]="2", ["minimum"]="9000", ["maximum"]="17650"
                 }
               }
             },
@@ -28325,7 +28360,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2557", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="550", ["maximum"]="9850"
+                  ["average"]="2557", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="550", ["maximum"]="9850"
                 },
                 ["03"] = {
                   ["average"]="4463", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1150", ["maximum"]="7865"
@@ -28376,7 +28411,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="60517", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="79990"
+                  ["average"]="60517", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="79990"
                 },
                 ["04"] = {
                   ["average"]="7868", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="7153", ["maximum"]="7868"
@@ -28432,7 +28467,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6107", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3900", ["maximum"]="22000"
+                  ["average"]="6107", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3900", ["maximum"]="22000"
                 },
                 ["03"] = {
                   ["average"]="4574", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="5500"
@@ -28507,7 +28542,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="189", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="750"
+                  ["average"]="193", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="750"
                 },
                 ["02"] = {
                   ["average"]="185", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="550"
@@ -28550,7 +28585,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2088", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="4426"
+                  ["average"]="2088", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1500", ["maximum"]="4426"
                 }
               }
             },
@@ -28615,7 +28650,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="287", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="400"
+                  ["average"]="287", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="400"
                 },
                 ["02"] = {
                   ["average"]="155", ["date"]="2025-09-20", ["commonQuantity"]="1", ["minimum"]="141", ["maximum"]="155"
@@ -28682,7 +28717,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="525700", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="2200000"
+                  ["average"]="578556", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="150000", ["maximum"]="2200000"
                 },
                 ["05"] = {
                   ["average"]="12525", ["date"]="2025-09-20", ["commonQuantity"]="1", ["minimum"]="5500", ["maximum"]="660000"
@@ -28725,7 +28760,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="28516", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="123456"
+                  ["average"]="28516", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="123456"
                 },
                 ["03"] = {
                   ["average"]="2639", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2173", ["maximum"]="120989"
@@ -28932,7 +28967,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2608", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="240", ["maximum"]="11000"
+                  ["average"]="2652", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="246", ["maximum"]="11000"
                 },
                 ["02"] = {
                   ["average"]="2185", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="11000"
@@ -29263,7 +29298,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="137465", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="200000"
+                  ["average"]="137465", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="200000"
                 },
                 ["04"] = {
                   ["average"]="229563", ["date"]="2025-09-27", ["commonQuantity"]="1", ["minimum"]="208694", ["maximum"]="264000"
@@ -29306,7 +29341,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="15658", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2539", ["maximum"]="20000"
+                  ["average"]="16097", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="2539", ["maximum"]="38000"
                 },
                 ["04"] = {
                   ["average"]="20954", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="49500"
@@ -29345,7 +29380,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="21998", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="16000", ["maximum"]="35000"
+                  ["average"]="20298", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="16000", ["maximum"]="27375"
                 },
                 ["05"] = {
                   ["average"]="26632", ["date"]="2025-10-23", ["commonQuantity"]="1", ["minimum"]="19000", ["maximum"]="49500"
@@ -29398,7 +29433,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="989", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="222", ["maximum"]="5000"
+                  ["average"]="989", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="222", ["maximum"]="5000"
                 },
                 ["02"] = {
                   ["average"]="488", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="88000"
@@ -29488,7 +29523,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="4846", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2436", ["maximum"]="10039"
+                  ["average"]="4266", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="10039"
                 },
                 ["04"] = {
                   ["average"]="5535", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2039", ["maximum"]="20900"
@@ -29531,7 +29566,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="116457", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="10000", ["maximum"]="350000"
+                  ["average"]="134200", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="15200", ["maximum"]="350000"
                 }
               }
             }
@@ -29624,7 +29659,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2986", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="14996"
+                  ["average"]="3069", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="190", ["maximum"]="14996"
                 },
                 ["02"] = {
                   ["average"]="75", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="25", ["maximum"]="11000"
@@ -29933,7 +29968,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="64600", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="110000"
+                  ["average"]="64600", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="110000"
                 },
                 ["04"] = {
                   ["average"]="16545", ["date"]="2025-09-27", ["commonQuantity"]="1", ["minimum"]="15041", ["maximum"]="16545"
@@ -29970,7 +30005,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6401", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3500", ["maximum"]="12000"
+                  ["average"]="6383", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="9990"
                 },
                 ["04"] = {
                   ["average"]="7725", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="44000"
@@ -30013,7 +30048,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="61", ["date"]="2026-07-26", ["commonQuantity"]="100", ["minimum"]="35", ["maximum"]="99"
+                  ["average"]="74", ["date"]="2026-08-10", ["commonQuantity"]="100", ["minimum"]="61", ["maximum"]="99"
                 },
                 ["03"] = {
                   ["average"]="43", ["date"]="2025-11-02", ["commonQuantity"]="100", ["minimum"]="10", ["maximum"]="231"
@@ -30060,7 +30095,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="89104", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="79156", ["maximum"]="108156"
+                  ["average"]="89104", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="79156", ["maximum"]="108156"
                 }
               },
               ["03"] = {
@@ -30109,7 +30144,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6192", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="10000"
+                  ["average"]="6442", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="4000", ["maximum"]="10000"
                 },
                 ["05"] = {
                   ["average"]="9320", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="22000"
@@ -30152,7 +30187,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1364", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="879", ["maximum"]="2200"
+                  ["average"]="1672", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="2622"
                 },
                 ["03"] = {
                   ["average"]="3413", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="203", ["maximum"]="8833"
@@ -30191,7 +30226,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="8328", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="10000"
+                  ["average"]="7836", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="10000"
                 },
                 ["04"] = {
                   ["average"]="11934", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="110000"
@@ -30234,7 +30269,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="93531", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="50000", ["maximum"]="110000"
+                  ["average"]="98531", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="80000", ["maximum"]="110000"
                 },
                 ["04"] = {
                   ["average"]="137463", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="95000", ["maximum"]="137500"
@@ -30255,7 +30290,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1727", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="814", ["maximum"]="3930"
+                  ["average"]="1719", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="814", ["maximum"]="3930"
                 },
                 ["03"] = {
                   ["average"]="4041", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="8800"
@@ -30380,7 +30415,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="899", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="5500"
+                  ["average"]="899", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="144", ["maximum"]="5500"
                 },
                 ["02"] = {
                   ["average"]="268", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1", ["maximum"]="5500"
@@ -30655,7 +30690,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1742", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="5000"
+                  ["average"]="1742", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="220", ["maximum"]="5000"
                 },
                 ["02"] = {
                   ["average"]="7403", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="450", ["maximum"]="7700"
@@ -30679,7 +30714,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3191", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="153", ["maximum"]="10153"
+                  ["average"]="3191", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="153", ["maximum"]="10153"
                 },
                 ["04"] = {
                   ["average"]="4174", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="600", ["maximum"]="16500"
@@ -30854,7 +30889,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1847", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="3500"
+                  ["average"]="1847", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="3500"
                 },
                 ["02"] = {
                   ["average"]="3251", ["date"]="2025-10-15", ["commonQuantity"]="1", ["minimum"]="580", ["maximum"]="3736"
@@ -31060,7 +31095,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="6314", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="10000"
+                  ["average"]="5808", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="9000"
                 },
                 ["04"] = {
                   ["average"]="13218", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="33000"
@@ -31099,7 +31134,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1109", ["date"]="2026-07-26", ["commonQuantity"]="2", ["minimum"]="500", ["maximum"]="2500"
+                  ["average"]="1135", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="109", ["maximum"]="2500"
                 },
                 ["02"] = {
                   ["average"]="1521", ["date"]="2025-10-05", ["commonQuantity"]="2", ["minimum"]="203", ["maximum"]="3916"
@@ -31153,7 +31188,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="25955", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="899", ["maximum"]="78156"
+                  ["average"]="25955", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="899", ["maximum"]="78156"
                 },
                 ["01"] = {
                   ["average"]="6600", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="6000", ["maximum"]="33000"
@@ -31278,7 +31313,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1592", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="257", ["maximum"]="5000"
+                  ["average"]="1592", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="257", ["maximum"]="5000"
                 },
                 ["02"] = {
                   ["average"]="5500", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="999", ["maximum"]="14300"
@@ -31495,7 +31530,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="21836", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="29347"
+                  ["average"]="21836", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="29347"
                 },
                 ["04"] = {
                   ["average"]="23966", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="18000", ["maximum"]="44000"
@@ -31515,6 +31550,13 @@
                   ["average"]="22932", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="6100", ["maximum"]="44000"
                 }
               }
+            },
+            ["xbox-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="15000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="15000"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -31531,7 +31573,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="813", ["date"]="2026-07-26", ["commonQuantity"]="4", ["minimum"]="143", ["maximum"]="1250"
+                  ["average"]="813", ["date"]="2026-08-10", ["commonQuantity"]="4", ["minimum"]="143", ["maximum"]="1250"
                 }
               }
             }

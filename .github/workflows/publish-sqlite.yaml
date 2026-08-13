@@ -50,9 +50,11 @@ jobs:
         run: |
           target_ref="HEAD"
           if [[ "$EVENT_NAME" == "workflow_dispatch" ]]; then
+            # A shallow checkout may contain only recent workflow-only merges.
+            # Deepen it before finding the latest commit that changed data.
+            git fetch --no-tags --deepen=10 origin main
             target_ref="$(git log -1 --format=%H -- \
               addon index items manifests observations segments snapshot.json)"
-            git fetch --no-tags --depth=2 origin "$target_ref"
           fi
           base_ref="${target_ref}^"
           export BASE_REF="$base_ref" TARGET_REF="$target_ref"

@@ -45,12 +45,24 @@ jobs:
         id: market-changes
         working-directory: app/data
         shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
         run: |
+          target_ref="HEAD"
+          if [[ "$EVENT_NAME" == "workflow_dispatch" ]]; then
+            target_ref="$(git log -1 --format=%H -- \
+              addon index items manifests observations segments snapshot.json)"
+            git fetch --no-tags --depth=2 origin "$target_ref"
+          fi
+          base_ref="${target_ref}^"
+          export BASE_REF="$base_ref" TARGET_REF="$target_ref"
+
           changed_count="$({
-            git diff --name-only HEAD^ HEAD -- \
+            git diff --name-only "$base_ref" "$target_ref" -- \
               addon index items manifests observations segments snapshot.json || true
           } | sed '/^$/d' | wc -l | tr -d ' ')"
           echo "count=${changed_count}" >> "$GITHUB_OUTPUT"
+          echo "data_sha=${target_ref}" >> "$GITHUB_OUTPUT"
 
           python - <<'PY'
           import datetime
@@ -64,7 +76,8 @@ jobs:
                   return json.load(file)
 
           changed = subprocess.check_output(
-              ["git", "diff", "--name-only", "HEAD^", "HEAD"], text=True
+              ["git", "diff", "--name-only", os.environ["BASE_REF"], os.environ["TARGET_REF"]],
+              text=True,
           ).splitlines()
           updated_items = {
               pathlib.PurePosixPath(path).parts[4]
@@ -135,8 +148,8 @@ jobs:
           PRICE_POINTS: ${{ steps.market-changes.outputs.price_points }}
           OBSERVATIONS: ${{ steps.market-changes.outputs.observations }}
           LATEST_DATE: ${{ steps.market-changes.outputs.latest_date }}
-          COMMIT_SHA: ${{ github.sha }}
-          COMMIT_URL: ${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }}
+          COMMIT_SHA: ${{ steps.market-changes.outputs.data_sha }}
+          COMMIT_URL: ${{ github.server_url }}/${{ github.repository }}/commit/${{ steps.market-changes.outputs.data_sha }}
         shell: bash
         run: |
           python - <<'PY'

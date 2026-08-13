@@ -5,6 +5,12 @@ on:
     branches:
       - main
   workflow_dispatch:
+    inputs:
+      publish_notification:
+        description: Publish the current market summary to Discord after a successful build
+        required: false
+        default: false
+        type: boolean
 
 concurrency:
   group: publish-sqlite
@@ -121,7 +127,7 @@ jobs:
             --clobber
 
       - name: Notify Discord after a legitimate market update
-        if: ${{ github.event_name == 'push' && steps.market-changes.outputs.count != '0' }}
+        if: ${{ (github.event_name == 'push' || inputs.publish_notification) && steps.market-changes.outputs.count != '0' }}
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           UPDATED_ITEMS: ${{ steps.market-changes.outputs.updated_items }}

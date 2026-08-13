@@ -46,6 +46,42 @@ jobs:
           } | sed '/^$/d' | wc -l | tr -d ' ')"
           echo "count=${changed_count}" >> "$GITHUB_OUTPUT"
 
+          python - <<'PY'
+          import datetime
+          import json
+          import os
+          import pathlib
+          import subprocess
+
+          def load(path):
+              with open(path, encoding="utf-8") as file:
+                  return json.load(file)
+
+          changed = subprocess.check_output(
+              ["git", "diff", "--name-only", "HEAD^", "HEAD"], text=True
+          ).splitlines()
+          updated_items = {
+              pathlib.PurePosixPath(path).parts[4]
+              for path in changed
+              if path.startswith("observations/")
+              and path.endswith(".json")
+              and len(pathlib.PurePosixPath(path).parts) > 4
+          }
+          segments = load("manifests/observations.json")["segments"]
+          latest_date = max(value["lastDate"] for value in segments.values())
+          friendly_date = datetime.date.fromisoformat(latest_date).strftime("%b %-d, %Y")
+          outputs = {
+              "updated_items": len(updated_items),
+              "catalog_items": len(load("index/master-items.json")),
+              "price_points": len(load("index/master-pricing.json")),
+              "observations": sum(value["records"] for value in segments.values()),
+              "latest_date": friendly_date,
+          }
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              for key, value in outputs.items():
+                  print(f"{key}={value}", file=output)
+          PY
+
       - name: Set up pnpm
         uses: pnpm/action-setup@v6
         with:
@@ -88,7 +124,11 @@ jobs:
         if: ${{ github.event_name == 'push' && steps.market-changes.outputs.count != '0' }}
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          CHANGED_FILE_COUNT: ${{ steps.market-changes.outputs.count }}
+          UPDATED_ITEMS: ${{ steps.market-changes.outputs.updated_items }}
+          CATALOG_ITEMS: ${{ steps.market-changes.outputs.catalog_items }}
+          PRICE_POINTS: ${{ steps.market-changes.outputs.price_points }}
+          OBSERVATIONS: ${{ steps.market-changes.outputs.observations }}
+          LATEST_DATE: ${{ steps.market-changes.outputs.latest_date }}
           COMMIT_SHA: ${{ github.sha }}
           COMMIT_URL: ${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }}
         shell: bash
@@ -100,10 +140,15 @@ jobs:
 
           sha = os.environ["COMMIT_SHA"]
           content = (
-              "📈 **ESO Market Tracker data updated**\n"
-              f"Published a validated SQLite snapshot from "
-              f"[{sha[:12]}](<{os.environ['COMMIT_URL']}>), containing changes to "
-              f"{os.environ['CHANGED_FILE_COUNT']} canonical market-data files."
+              "📈 **ESO Market Tracker prices updated!**\n\n"
+              f"✨ **{int(os.environ['UPDATED_ITEMS']):,} items** received refreshed pricing\n"
+              f"📊 **{int(os.environ['PRICE_POINTS']):,} price points** across "
+              f"{int(os.environ['CATALOG_ITEMS']):,} catalog items\n"
+              f"🧾 **{int(os.environ['OBSERVATIONS']):,} historical market observations**\n"
+              "🎮 Xbox & PlayStation — North America + Europe\n"
+              f"🗓️ Freshest observations: **{os.environ['LATEST_DATE']}**\n\n"
+              "🔎 Explore the latest prices: <https://esomarkettracker.com/>\n"
+              f"_Technical details: [{sha[:12]}](<{os.environ['COMMIT_URL']}>)_"
           )
           request = urllib.request.Request(
               os.environ["DISCORD_WEBHOOK_URL"],

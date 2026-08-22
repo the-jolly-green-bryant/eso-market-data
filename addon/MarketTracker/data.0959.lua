@@ -14173,7 +14173,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="908", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="130", ["maximum"]="1707"
+                  ["average"]="915", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="150", ["maximum"]="5000"
                 }
               }
             },
@@ -29223,7 +29223,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1031", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="1234"
+                  ["average"]="2153", ["date"]="2026-08-10", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="5000"
                 }
               }
             },

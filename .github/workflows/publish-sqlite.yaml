@@ -145,7 +145,6 @@ jobs:
         if: ${{ (github.event_name == 'push' || inputs.publish_notification) && steps.market-changes.outputs.count != '0' }}
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          TSC_DISCORD_WEBHOOK_URL: ${{ secrets.TSC_DISCORD_WEBHOOK_URL }}
           UPDATED_ITEMS: ${{ steps.market-changes.outputs.updated_items }}
           CATALOG_ITEMS: ${{ steps.market-changes.outputs.catalog_items }}
           PRICE_POINTS: ${{ steps.market-changes.outputs.price_points }}
@@ -178,7 +177,6 @@ jobs:
           }).encode()
           destinations = {
               "ESO Market Tracker": os.environ["DISCORD_WEBHOOK_URL"],
-              "Tamriel Savings": os.environ["TSC_DISCORD_WEBHOOK_URL"],
           }
           errors = []
           for name, webhook_url in destinations.items():

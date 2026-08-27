@@ -21613,7 +21613,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1148", ["date"]="2026-08-26", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="6000"
+                  ["average"]="556", ["date"]="2026-08-27", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="1000"
                 }
               }
             },

@@ -29134,7 +29134,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="395", ["date"]="2026-08-26", ["commonQuantity"]="1", ["minimum"]="135", ["maximum"]="1000"
+                  ["average"]="715", ["date"]="2026-08-27", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="3000"
                 }
               }
             },

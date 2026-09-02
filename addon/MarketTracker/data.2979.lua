@@ -21510,7 +21510,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="306", ["date"]="2026-09-01", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="500"
+                  ["average"]="722", ["date"]="2026-09-02", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="3200"
                 }
               }
             },

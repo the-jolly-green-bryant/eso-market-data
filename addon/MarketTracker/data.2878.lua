@@ -35224,7 +35224,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="29579", ["date"]="2026-09-07", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="78093"
+                  ["average"]="29579", ["date"]="2026-09-08", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="78093"
                 },
                 ["04"] = {
                   ["average"]="10904", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="1539", ["maximum"]="27500"

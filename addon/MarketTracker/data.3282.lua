@@ -2511,7 +2511,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="529", ["date"]="2026-09-21", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="1000"
+                  ["average"]="726", ["date"]="2026-09-22", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="2000"
                 }
               }
             },

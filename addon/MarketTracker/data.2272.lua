@@ -9098,6 +9098,13 @@
                   ["average"]="227", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="60", ["maximum"]="310"
                 }
               }
+            },
+            ["xbox-na"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="250", ["date"]="2025-12-06", ["commonQuantity"]="1", ["minimum"]="250", ["maximum"]="250"
+                }
+              }
             }
           })[tostring(platform)]
         end

@@ -7857,6 +7857,13 @@
                   ["average"]="91908", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="76595", ["maximum"]="122222"
                 }
               }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="115023", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="80000", ["maximum"]="150045"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -9492,6 +9499,13 @@
               ["--"] = {
                 ["--"] = {
                   ["average"]="2583", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1249", ["maximum"]="10150"
+                }
+              }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="2500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="2500"
                 }
               }
             }

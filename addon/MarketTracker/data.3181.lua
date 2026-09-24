@@ -12810,6 +12810,13 @@
                   ["average"]="1198", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="1198", ["maximum"]="1198"
                 }
               }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="198", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="198", ["maximum"]="198"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -13854,7 +13861,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="7981", ["date"]="2026-09-23", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="11845"
+                  ["average"]="4983", ["date"]="2026-09-24", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="7176"
                 }
               }
             },
@@ -17292,7 +17299,7 @@
             ["xbox-eu"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="2150", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="2300"
+                  ["average"]="2100", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="2300"
                 }
               }
             },
@@ -31644,7 +31651,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3547", ["date"]="2026-09-23", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="7522"
+                  ["average"]="4246", ["date"]="2026-09-24", ["commonQuantity"]="1", ["minimum"]="2000", ["maximum"]="7508"
                 }
               }
             },
@@ -36106,7 +36113,7 @@
             ["ps-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="525000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="400000", ["maximum"]="650000"
+                  ["average"]="483333", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="400000", ["maximum"]="650000"
                 }
               }
             }

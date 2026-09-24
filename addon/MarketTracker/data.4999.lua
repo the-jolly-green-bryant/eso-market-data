@@ -18116,7 +18116,7 @@
             ["ps-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="40", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="28", ["maximum"]="45"
+                  ["average"]="38", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="28", ["maximum"]="45"
                 }
               }
             }
@@ -20405,7 +20405,7 @@
             ["ps-eu"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="27000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="27000", ["maximum"]="27000"
+                  ["average"]="21000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="15000", ["maximum"]="27000"
                 }
               }
             }

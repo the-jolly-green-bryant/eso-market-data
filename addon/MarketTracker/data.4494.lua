@@ -1120,7 +1120,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="297", ["date"]="2026-09-23", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="1000"
+                  ["average"]="311", ["date"]="2026-09-24", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="531"
                 },
                 ["03"] = {
                   ["average"]="397", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="70", ["maximum"]="4400"
@@ -7295,7 +7295,7 @@
             ["ps-eu"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="33000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="33000", ["maximum"]="33000"
+                  ["average"]="32000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="30000", ["maximum"]="33000"
                 }
               }
             }
@@ -12533,6 +12533,13 @@
                   ["average"]="3000", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="3000"
                 }
               }
+            },
+            ["ps-na"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="500"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -16965,6 +16972,13 @@
                   ["average"]="120000", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="100000", ["maximum"]="140000"
                 }
               }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="100000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="100000", ["maximum"]="100000"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -17053,6 +17067,13 @@
               ["--"] = {
                 ["--"] = {
                   ["average"]="15830", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="15830", ["maximum"]="15830"
+                }
+              }
+            },
+            ["ps-na"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="12000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="12000", ["maximum"]="12000"
                 }
               }
             }

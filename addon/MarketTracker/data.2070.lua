@@ -3183,6 +3183,13 @@
                   ["average"]="5000", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="5000"
                 }
               }
+            },
+            ["xbox-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="3000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="3000"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -11555,6 +11562,13 @@
                   ["average"]="15445", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="27", ["maximum"]="35908"
                 }
               }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="64514", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="40027", ["maximum"]="89000"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -13932,7 +13946,7 @@
             ["ps-eu"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1896", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1896", ["maximum"]="1896"
+                  ["average"]="4573", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1896", ["maximum"]="7250"
                 }
               }
             }
@@ -26136,6 +26150,13 @@
                   ["average"]="2832", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="2500", ["maximum"]="3365"
                 }
               }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="1000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="1000"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -28536,7 +28557,7 @@
             ["ps-eu"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="13000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="13000", ["maximum"]="13000"
+                  ["average"]="14500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="13000", ["maximum"]="16000"
                 }
               }
             }
@@ -28850,7 +28871,7 @@
             ["xbox-eu"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="14000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="14000", ["maximum"]="14000"
+                  ["average"]="12434", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="10868", ["maximum"]="14000"
                 }
               }
             }
@@ -30677,6 +30698,13 @@
                   ["average"]="975", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="727", ["maximum"]="1000"
                 }
               }
+            },
+            ["xbox-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="1000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="1000"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -31054,6 +31082,13 @@
               ["--"] = {
                 ["--"] = {
                   ["average"]="2528", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="4000"
+                }
+              }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="12150", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="12150", ["maximum"]="12150"
                 }
               }
             }
@@ -39635,6 +39670,13 @@
               ["--"] = {
                 ["--"] = {
                   ["average"]="20000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="20000", ["maximum"]="20000"
+                }
+              }
+            },
+            ["xbox-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="5000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="5000", ["maximum"]="5000"
                 }
               }
             }
